@@ -1,4 +1,28 @@
 .list-unstyled {
 	list-style: none;
-	color: red;
+	color: #404040;
+	text-align: right;
+	margin-right: 10px;
+}
+
+#apps {
+	
+}
+
+li {
+	display: inline;
+	margin-right: 15px;
+}
+
+a {
+	text-decoration: none;
+
+}
+
+a:visited {
+	color: #404040;
+}
+
+a:hover {
+	text-decoration: underline;
 }
